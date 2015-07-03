@@ -1,0 +1,3 @@
+[submodule "pyAIML"]
+	path = pyAIML
+	url = https://github.com/creatorrr/pyAIML/
