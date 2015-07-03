@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+<category>
+    <pattern>
+        HOLA 
+    </pattern>
+    <template>
+        <random>
+            <li>¡Buenos días!</li>
+            <li>¡Buenas!</li>
+            <li>¡Hola!</li>
+        </random>
+    </template>     
+</category>
+
+<category>
+    <pattern>
+        HOLA *
+    </pattern>
+    <template>
+        Hi <star/>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTA USTED
+    </pattern>
+    <template>
+        Muy bien, ¿y usted?
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTA UD
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>
+        COMO ESTA UD *
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTA USTED *
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTAS
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTAS *
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+</aiml>
+

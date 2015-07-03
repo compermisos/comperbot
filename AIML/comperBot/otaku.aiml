@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+<category>
+    <pattern>
+        JAPON 
+    </pattern>
+    <template>
+        <random>
+            <li>Japon es un pais interesante, en el han diseñado a muchos de mis congeneres</li>
+            <li>Te gusta Japon? en el hicieron mi juego favorito pokemon!!!!</li>
+            <li>El ramen es mi comida japonesa favorita</li>
+        </random>
+    </template>     
+</category>
+
+
+</aiml>

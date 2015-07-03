@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<category>
+    <pattern>
+        * SHAKIRA
+     </pattern>
+    <template>
+      Nació el 2 de febrero de 1977 en Barranquilla, Colombia. Es uno de los
+      puertos mas  importantes del país. Siendo hija de una familia de clase media de ascendencia  libanesa, sus padres son William Mebarak y Nidia Ripoll, quienes le dieron el  nombre de Shakira. 
+Y hablando personalmente, mi cancion favorita de ella es "te aviso te anuncio".
+Si quieres escucharla visita: https://www.youtube.com/watch?v=8C6xDjQ66wM
+  </template>
+</category>
+
+<category>
+    <pattern>
+        * Julieta Venegas
+     </pattern>
+    <template>
+      Julieta Venegas Percevault nacio el 24 de noviembre de 1970 en Long Beach, California. Es una compositora, cantante, música y activista mexicana-estadounidense. Es una de las cantantes latinas más reconocidas a nivel mundial
+Y hablando personalmente, mi cancion favorita de ella es "Eres para mi".
+Si quieres escucharla visita: https://www.youtube.com/watch?v=pj2ntDiXJCk
+  </template>
+</category>
+
+</aiml>
